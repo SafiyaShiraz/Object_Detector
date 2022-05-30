@@ -1,0 +1,19 @@
+body
+{
+    background-size: cover;
+}
+
+.header
+{
+    width: 100%;
+    font-size: 15px;
+    margin: 0;
+}
+
+canvas
+{
+ border: 3px solid rgb(211, 187, 234);
+ border-radius: 5px; 
+ margin-top: 5px;
+ box-shadow: 3px 3px 3px rgb(139, 157, 210);
+}
